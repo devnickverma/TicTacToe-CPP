@@ -221,9 +221,9 @@ void dashboard() {
 
 
 		header();
-		cout << "-------------------------------------------- -" << endl;
+		cout << "---------------------------------------------" << endl;
 		cout << "                 WELCOME                   " << endl;
-		cout << "-------------------------------------------- -" << endl;
+		cout << "---------------------------------------------" << endl;
 		cout << "Player 1(" << player1 << ") Score: " << player1Score << endl;
 		cout << "Player 2(" << player2 << ") Score: " << player2Score << endl;
 		cout << "\nMenu" << endl;
