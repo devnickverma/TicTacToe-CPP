@@ -1,5 +1,5 @@
-# Tik Tok Toe - CPP
-Basic console CPP Tik Tok Toe game.
+# Tic Tac Toe - CPP
+Basic console CPP Tic Tac Toe game.
 
 - Player Name
 
