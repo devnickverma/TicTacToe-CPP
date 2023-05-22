@@ -1,5 +1,5 @@
 # Tic Tac Toe - CPP
-Basic console CPP Tic Tac Toe game.
+Tic Tac Toe, implemented in C++, is a classic two-player board game played on a 3x3 grid. The objective is to be the first to form a straight line of three markers, either horizontally, vertically, or diagonally. The game begins with an empty grid, and players take turns placing their designated markers (usually "X" and "O") on any available cell. The program handles user input, validates moves, and checks for a winning condition. It provides a simple yet engaging gameplay experience, making use of loops, conditionals, and arrays to ensure smooth execution and enjoyable interactions between players.
 
 - Player Name
 
